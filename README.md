@@ -36,7 +36,7 @@ I had done my 12th from Government senior secondary school, Jalalabad (W).
 ## **Additional skills** ##
 
 - Photography
--  Playing Chess
+- Playing Chess
 - Listening Music
 
 # **My Excel Certificate** #
@@ -46,5 +46,23 @@ I recently completed an MS Excel course through www.mygreatLearning.com , and it
 
 ### Examples of Excel Course Function:
 1. Sum Function:
-   -The Sum Function is used to add up a range of numbers
- -If you want to add cells from A1 to A7 
+- The Sum Function is used to add up a range of numbers.
+- If you want to add cells from A1 to A7, you can use =SUM(A1:A7) to select all cells from A1 to A7 cell and can get the total.
+
+2. MAX Function:
+- The MAX Function returns the largest number in a range.
+- Example: If we want to select largest value, we can use =MAX(A1:A7) and we will get the largest value.
+
+3. MIN Function:
+- The MIN Function is used to get the minimum value in a selected range.
+- Example: To find minimum value in A1 to A10, we can use =MIN(A1:A10) and we will get the value.
+
+4. Average Function:
+- The Average function is used to get mean of selected number of cells.
+- Example: To find Average or mean of 10 cells we can use, =AVERAGE(A1:A10) and after pressing enter we will get the average.
+
+5. COUNT Function:
+- The Count Function is used to count the number of cells which contain numbers in a specified range.
+- Example: If you have some empty cells in slected range than you can use, =COUNT(A1:A10) the we will get number of cells having some values.
+
+
