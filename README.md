@@ -11,3 +11,10 @@ I had done my 10th from ST KABIR GURUKUL, Jalalabad (W)
 
 ## **Marks Detail** ##
 
+| Subject | Obtained Marks | Total Marks |
+|---|---|---|
+| English | 92 | 100 |
+| Punjabi| 99 | 100 |
+| Mathematics| 63 | 100 |
+| Science | 83 | 100 |
+| Social science| 90 | 100 |
