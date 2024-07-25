@@ -32,3 +32,19 @@ I had done my 12th from Government senior secondary school, Jalalabad (W).
 | Physics | 83 | 100 |
 | Chemistry | 94 | 100 |
 | Mathematics | 88 | 100 |
+
+## **Additional skills** ##
+
+- Photography
+-  Playing Chess
+- Listening Music
+
+# **My Excel Certificate** #
+### My Excel Course Experience ###
+
+I recently completed an MS Excel course through www.mygreatLearning.com , and it has been a highly enriching experience. The course covered essential features of Excel, from basic functionalities to more advanced data analysis techniques. It was structured in a way that was easy to follow, with hands-on exercises that helped me grasp each concept effectively. The instructors were knowledgeable and provided practical insights that were directly applicable to real-world scenarios.
+
+### Examples of Excel Course Function:
+1. Sum Function:
+   -The Sum Function is used to add up a range of numbers
+ -If you want to add cells from A1 to A7 
